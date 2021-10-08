@@ -1,0 +1,1 @@
+To test whether a pointer is null, you simply test whether it compares equal to NULL or 0 . Array in C++ cannot be "empty". When you define an array object, you explicitly specify the exact size of the array. That array contains (and always will contain) that exact number of elements you specified in the definition
